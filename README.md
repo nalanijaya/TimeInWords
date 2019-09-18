@@ -18,37 +18,42 @@ timeInWords has the following parameter(s):
 h: an integer representing hour of the day
 m: an integer representing minutes after the hour
 
-Input Format
+**Input Format**
 
 The first line contains h, the hours portion The second line contains m, the minutes portion
 
-Constraints
+**Constraints**
 
 1<= h <=12
 0<= m <60
 
-Output Format
+**Output Format**
 
 Print the time in words as described.
 
-Sample Input 0
+**Sample Input 0**
 
 5
 47
-Sample Output 0
+
+**Sample Output 0**
 
 thirteen minutes to six
-Sample Input 1
+
+**Sample Input 1**
 
 3
 00
-Sample Output 1
+
+**Sample Output 1**
 
 three o' clock
-Sample Input 2
+
+**Sample Input 2**
 
 7
 15
-Sample Output 2
+
+**Sample Output 2**
 
 quarter past seven
